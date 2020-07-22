@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="col">#07FA10</color>
+    <color name="cent">#F43D03</color>
+    <color name="Acc">#FFFFFF</color>
+    <color name="LL">#97C198</color>
+    <color name="Lo">#498F98</color>
+</resources>
